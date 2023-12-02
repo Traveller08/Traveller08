@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Traveller08/Traveller08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,11 +20,12 @@ Here are some ideas to get you started:
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ## 🧐 About
-- 🔭 I’m currently working on Android Projects
-- 🌱 I’m currently learning DSA, Android
 
-- 🤔 I’m looking for help with Data Structure and Algorithm 
-- 💬 Ask me about Android App Development or any tech related stuff
+- 🔭 I’m currently working on MERN projects
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Full Stack Projects
+- 💬 Ask me about any tech related stuff
+- 😄 Pronouns: He/Him
 
 
 ![Ankit"s Status](https://github-readme-stats.vercel.app/api?username=traveller08&show_icons=true&hide_border=true&theme=vue)
